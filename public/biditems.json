@@ -1,0 +1,67 @@
+{
+  "bidItems": [
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "Classic 1950s rangefinder camera in excellent working condition with original leather case.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/s9BZ1Tvf/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "Vintage guitar with original pickups and hardware, played by several famous musicians.",
+      "currentBidPrice": 6700,
+      "timeLeft": "3 Days left",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/4wbx7bpj/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "First-generation Macintosh computer in working condition with original peripherals.",
+      "currentBidPrice": 4200,
+      "timeLeft": "2 Days left",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co.com/zd0wbGd/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Iconic stainless steel dive watch with date function, circa 1990s, recently serviced.",
+      "currentBidPrice": 8900,
+      "timeLeft": "4 Days left",
+      "bidsCount": 20,
+      "image": "https://i.ibb.co.com/xS0f6SXZ/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "Rare 1925 first printing with original dust jacket in good condition.",
+      "currentBidPrice": 12500,
+      "timeLeft": "6 Days left",
+      "bidsCount": 7,
+      "image": "https://i.ibb.co.com/C3khCN5C/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Authentic Herman Miller Eames lounge chair and ottoman in black leather and rosewood.",
+      "currentBidPrice": 3800,
+      "timeLeft": "3 Days left",
+      "bidsCount": 9,
+      "image": "https://i.ibb.co.com/4RDkKJ1v/Bid6-min.png"
+    },
+    {
+      "id": 7,
+      "title": "Banksy Original Screen Print",
+      "description": "Limited edition screen print by anonymous street artist Banksy, certificate of authenticity included.",
+      "currentBidPrice": 3850,
+      "timeLeft": "1 Days left",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co.com/SDGgbQyX/Bid7-min.png"
+    }
+  ]
+}
