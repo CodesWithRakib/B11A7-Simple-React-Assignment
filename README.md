@@ -1,5 +1,7 @@
 ### Completed the assignment 🎉✅✅😍
 
+### live Link : https://auction-gallery-by-rakib.netlify.app/
+
 ## 📌 **Main Requirements**
 
 ### ✅ Navbar
